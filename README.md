@@ -1,1 +1,1 @@
-# experiment
+# This repository is to test my understanding of GitHub
